@@ -1,6 +1,8 @@
 # DIO Bootcamp Warburg Fullstack
 Repositório Criado para inserir os desafios de códigos realizados no Bootcamp Fullstack da Warburg Pincus com as linguagens Java e Javascript realizado na DIO.
 
+![image](https://user-images.githubusercontent.com/24790794/211226939-5ba65993-2ac8-4d55-a9b0-572b3752f09f.png)
+
 ## Autor
 
 <a href="https://www.linkedin.com/in/thamyres-magalhaes/">
